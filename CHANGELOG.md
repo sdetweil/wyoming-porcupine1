@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.2.1
+
+- change order og events to most frequent to least, all elif after 1st, stop after found
+- uprgade to wyoming 1.6.0
+- remove return False after AudioStop as it kills server, have to restart for next process
+
 ## 1.2.0
 
 - Upgrade to wyoming 1.5.3
